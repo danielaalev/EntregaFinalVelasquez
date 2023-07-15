@@ -1,0 +1,51 @@
+* {
+    background-color: #EBE6E4;
+    font-family: 'Cormorant Garamond', serif;
+    color: #474747;
+}
+
+.indexheader{
+    display: flex;
+    align-items: center;
+}
+
+.imgindex {
+    width: 280px;
+    height: 280px;
+    background-color: #EBE6E4;
+}
+
+.indexsubtitle{
+    margin-left: 10px;
+    font-size: 22px;
+}
+
+.currency{
+    margin-top: 10px;
+}
+
+.currency p{
+    font-size: 20px;
+}
+
+#form{
+    font-size: 20px; 
+}
+
+
+.finish, .empty{
+border-radius: 5px;
+padding: 10px 20px;
+font-size: 14px;
+background-color: #474747; 
+color: #FFFFFF; 
+border: none; 
+margin-right: 10px;
+}
+
+.finish:hover, .empty button:hover {
+    background-color: #666666;
+    cursor: pointer; 
+}
+
+
